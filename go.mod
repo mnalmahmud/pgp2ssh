@@ -1,4 +1,5 @@
-module pgp2ssh
+# module github.com/pinpox/pgp2ssh
+module github.com/mnalmahmud/pgp2ssh
 
 go 1.21.8
 
